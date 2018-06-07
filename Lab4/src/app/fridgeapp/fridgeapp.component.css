@@ -1,0 +1,8 @@
+.selected {
+    background: greenyellow;
+}
+
+.selectCursor {
+    cursor: pointer;
+    display: inline-block;
+}

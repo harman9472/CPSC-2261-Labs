@@ -1,0 +1,9 @@
+.fridgeapp {
+    float: left;
+}
+
+.shopping-listapp {
+    float: left;
+    position: relative;
+    left: 20%;
+}
